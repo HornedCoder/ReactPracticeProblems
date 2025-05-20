@@ -4,12 +4,16 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Two from './Two';
 import One from './One';
+import Three from './Three';
+import Four from './Four';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
     {/*<One />*/}
-    <Two />
+    {/*<Two />*/}
+    {/*<Three />*/}
+    <Four />
 
   </div>
 );
