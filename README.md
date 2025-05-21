@@ -2,9 +2,10 @@ Some react problems solved here.
 Each problem is solved as a component.
 To see the components working just remove commented out component in index.js
 
-One => Hello World
-Two => Counter
-Three => User Input
-Four => Display List
-Five => Toggle Switch
-Six => Fetch Data
+One => Hello World  
+Two => Counter  
+Three => User Input  
+Four => Display List  
+Five => Toggle Switch  
+Six => Fetch Data  
+Seven => Timer

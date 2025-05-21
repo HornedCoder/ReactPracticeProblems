@@ -8,7 +8,7 @@ import Three from './Three';
 import Four from './Four';
 import Five from './Five';
 import Six from './Six';
-
+import Seven from './Seven';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
@@ -17,7 +17,8 @@ root.render(
     {/*<Three />*/}
     {/*<Four />*/}
     {/*<Five />*/}
-    <Six />
+    {/*<Six />*/}
+    <Seven />
 
   </div>
 );
