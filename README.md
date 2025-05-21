@@ -7,3 +7,4 @@ Two => Counter
 Three => User Input
 Four => Display List
 Five => Toggle Switch
+Six => Fetch Data
