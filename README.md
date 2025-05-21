@@ -8,4 +8,8 @@ Three => User Input
 Four => Display List  
 Five => Toggle Switch  
 Six => Fetch Data  
-Seven => Timer
+Seven => Timer  
+Eight => BG change on Click  
+Nine => Routing  
+Ten => Upload Image  
+
