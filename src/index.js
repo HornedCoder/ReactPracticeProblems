@@ -14,6 +14,7 @@ import Nine from './Nine';
 import Ten from './Ten';
 import Eleven from './Eleven';
 import Twelve from './Twelve';
+import Thirteen from './Thirteen';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -29,7 +30,8 @@ root.render(
     {/*<Nine />*/}
     {/*<Ten />*/}
     {/*<Eleven />*/}
-    <Twelve />
+    {/*<Twelve />*/}
+    <Thirteen />
   </div>
 );
 
