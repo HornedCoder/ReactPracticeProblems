@@ -18,6 +18,8 @@ import Thirteen from './Thirteen';
 import Fourteen from './Fourteen';
 import Fifteen from './Fifteen';
 import Sixteen from './Sixteen';
+import Seventeen from './Seventeen';
+import { CartProvider } from './CartContext';
 
 
 
@@ -39,7 +41,10 @@ root.render(
     {/*<Thirteen />*/}
     {/*<Fourteen />*/}
     {/*<Fifteen />*/}
-    <Sixteen />
+    {/*<Sixteen />*/}
+    <CartProvider>
+    <Seventeen />
+    </CartProvider>
   </div>
 );
 
